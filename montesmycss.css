@@ -1,0 +1,77 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+
+	border-style: solid;
+  color: blue;
+}
+p {
+  color: red;
+  border: 2px solid powderblue;
+  padding: 30px;
+
+  border: 2px solid powderblue;
+  margin: 50px 20px 50px 20px;
+}
+
+table{
+	width: 100%;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+img{
+	height: 100px;
+}
+
+
+th, td {
+  padding: 15px;
+}
+
+th {
+  text-align: left;
+}
+
+table {
+  border-spacing: 5px;
+}
+.city{
+	color: red;
+	background-color: black;
+
+}
+
+.city p{
+	font-size: 14px;
+	font-weight: bold;
+	width: 
+
+	}
+
+iframe{
+	border: 2px solid red;
+	width: 100px;
+	height: 100px;
+
+
+}
+
+.nav{
+	padding: 10px;
+	margin: 10px;
+}
+
+.nav ul{
+	float: right;
+	margin-right: 20px;
+	width: 50px
+	height: 50px;
+
+}
+
+.nav li{
+	float: right;
+	padding: 20px;
+}
